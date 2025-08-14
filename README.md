@@ -43,7 +43,7 @@
 
 <br /><br />
 
-# Demo :movie_camera:
+<!-- # Demo :movie_camera:
 ![](https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/demo.gif)
 ## View live demo [here](https://dev-portfolio-template.netlify.app/).
 
@@ -507,4 +507,4 @@ export const educationData = [
             <td align="center"><a href="https://github.com/Gayathry17"><img src="https://iamgayathrysuresh.web.app/static/media/gAvatar.37897d13.jpeg" width="135px;" height="135px; alt=""/><br /><b>Gayathry S</b></a></td>
         </tr>
     </table>
-</div>
+</div> -->
