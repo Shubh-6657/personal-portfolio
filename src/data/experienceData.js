@@ -1,23 +1,30 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
+        company: 'Staar PayOut Private Limited',
+        jobtitle: 'Automation Test Engineer',
+        startYear: '2025',
+        endYear: 'Present'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
+        company: 'Big Wings LLC',
+        jobtitle: 'Software Test Engineer',
+        startYear: '2023',
+        endYear: '2025'
     },
     {
         id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
-        startYear: '2020',
-        endYear: 'Present'
+        company: 'Big Wings LLC',
+        jobtitle: 'Frontend Intern',
+        startYear: '2023',
+        endYear: '2023'
+    },
+        {
+        id: 4,
+        company: 'Lets Grow More',
+        jobtitle: 'Web Development Intern',
+        startYear: '2023',
+        endYear: '2023'
     },
 ]
